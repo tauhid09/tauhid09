@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Tauheed Ansari</h1>
-<h3 align="center">💻 MERN Stack Developer | ☁️ Aspiring Cloud Engineer | 🎓 BCA Student</h3>
+<h3 align="center">💻 Web Developer | ☁️ Aspiring Cloud Engineer | 🎓 BCA Student</h3>
 
 ---
 
@@ -27,10 +27,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-
+<!--
 #### ⚙️ Backend:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+-->
 
 #### ☁️ Cloud & Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -48,6 +49,9 @@
   <a href="mailto:mohdtauheedansari09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
+    <a href="https://www.instagram.com/absolute_tauheed" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -56,10 +60,12 @@
 
 | Project Name | Description | Tech Used | Live Demo |
 |---------------|-------------|------------|------------|
-| 🖥️ [YouTube Clone](https://github.com/tauhid09/YouTube-Clone-Website) | A front-end clone of YouTube’s UI | HTML, CSS | — |
-| 📸 [Pinterest Clone](https://github.com/tauhid09/Pinterest-Clone-website) | Beautiful static clone of Pinterest | HTML, CSS | — |
-| 🧾 [Google Form Clone](https://github.com/tauhid09/Google-Form-Clone) | Google Form UI built using HTML | HTML | — |
+| 🌐 [My Portfolio](https://github.com/tauhid09/tauheedPortfolio) | Personal portfolio website built using React + Tailwind CSS | React.js, Vite, Tailwind CSS | [View Live](https://tauheed-portfolio.vercel.app/) |
 | 🌍 [Tourist Website](https://github.com/tauhid09/TouristWebsite) | Travel landing page concept | HTML, CSS | — |
+| 📸 [Pinterest Clone](https://github.com/tauhid09/Pinterest-Clone-website) | Beautiful static clone of Pinterest | HTML, CSS | — |
+| 🖥️ [YouTube Clone](https://github.com/tauhid09/YouTube-Clone-Website) | A front-end clone of YouTube’s UI | HTML, CSS | — |
+| 🧾 [Google Form Clone](https://github.com/tauhid09/Google-Form-Clone) | Google Form UI built using HTML | HTML | — |
+
 
 ---
 
